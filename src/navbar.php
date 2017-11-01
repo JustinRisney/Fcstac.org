@@ -14,7 +14,6 @@
 	.nav-link{
 		font-weight: 300;	
 	} 
-
 	</style>
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top" id="OUR-navbar">
 	<a class="navbar-brand" href="/">
