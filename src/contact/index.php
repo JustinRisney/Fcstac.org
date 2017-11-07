@@ -8,9 +8,21 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     </head>
     <body>
-      <?php include'../navbar.php';?>
-
-            
+		<?php include'../navbar.php';?>
+		<div class="container text-center" style="padding: 80px 40px;">
+			<h1 style="font-weight: 200;">Executive Board</h1>
+			<p style="padding: 20px 20px;">Dawn Maceyka------President-------hetac01@gmail.com</p>
+		</div>
+		<p>
+Dawn Maceyka- President:                              
+Tanya Durham Wright-Vice-President:        tanya@jtwright.net
+Linda Johnson-Secretary:                                lljohn@pacbell.net
+Linda Rosensteel-Treasurer:                           linda.rosensteel@hesperiausd.org
+Raean Gaddoni- Web Master:                         raean.gaddoni@acusd.org
+Mona Klein- Legislative Liaison:                    mona.klein@comcast.net
+REGIONAL COMMUNICATION NETWORK
+Click on your region to contact your Communication Chair, 
+and to see what events are coming up.</p>
 
 
 
