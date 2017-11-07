@@ -17,17 +17,17 @@
                     <h4>2016</h4>
                 </li>
                 <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/December-Newsletter-2016.pdf">
                         December Newsletter
                     </a>
                 </li>
                 <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/September-Newsletter-2016.pdf">
                         September Newsletter
                     </a>
                 </li>
                 <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/May-Newsletter-2016.pdf">
                         May Newsletter
                     </a>
                 </li>
@@ -37,49 +37,48 @@
                 </li>
 
                 <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Summer-Newsletter-2015.pdf">
                         Summer Newsletter
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Fall-Newsletter-2015.pdf">
                         Fall Newsletter
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Winter-Newsletter-2015.pdf">
                         Winter Newsletter
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Spring-Newsletter-2015.pdf">
                         Spring Newsletter
                 </li>
 
                  <li class="Year-published">
-                    <a href="">
+                    
                       <h4> 2014 </h4>
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Winter-Newsletter-2014.pdf">
                         Winter Newsletter
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Spring-Newsletter-2014.pdf">
                         Spring Newsletter
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Summer-Newsletter-2014.pdf">
                         Summer Newsletter
                 </li>
 
                  <li class="Year-published">
-                    <a href="">
                         <h4> 2013 </h4>
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Spring-Newsletter-2013.pdf">
                         Spring Newsletter
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Fall-Newsletter-2013.pdf">
                         Fall Newsletter
                 </li>
 
@@ -88,7 +87,7 @@
                         <h4>2012</h4>
                 </li>
                  <li class="Links">
-                    <a href="">
+                    <a href="/pdf/newsletters/Fall-Newsletter-2012.pdf">
                         Fall Newsletter
                 </li>
             </ul>
