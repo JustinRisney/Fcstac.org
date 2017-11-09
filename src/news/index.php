@@ -4,17 +4,18 @@
         <title>FCTAC</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
+        <link rel="stylesheet" type="text/css" href="/stylesheets/news.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     </head>
     <body>
       <?php include'../navbar.php';?>
+           <div id="link-container">
+
             <h1>Archived News Letters</h1>
 
-            <div id="link-container">
-            <ul>
+            <ul style="list-style: none;">    
                 <li class="Year-published">
-                    <h4>2016</h4>
+                    <h3>2016</h3>
                 </li>
                 <li class="Links">
                     <a href="/pdf/newsletters/December-Newsletter-2016.pdf">
@@ -33,64 +34,75 @@
                 </li>
 
                 <li class="Year-published">
-                    <h4> 2015 </h4>
+                    <h3> 2015 </h3>
                 </li>
 
                 <li class="Links">
                     <a href="/pdf/newsletters/Summer-Newsletter-2015.pdf">
                         Summer Newsletter
+                    </a>
+                        
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Fall-Newsletter-2015.pdf">
                         Fall Newsletter
+                    </a>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Winter-Newsletter-2015.pdf">
                         Winter Newsletter
+                    </a>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Spring-Newsletter-2015.pdf">
                         Spring Newsletter
+                    </a>
                 </li>
 
                  <li class="Year-published">
                     
-                      <h4> 2014 </h4>
+                      <h3> 2014 </h3>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Winter-Newsletter-2014.pdf">
                         Winter Newsletter
+                    </a>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Spring-Newsletter-2014.pdf">
                         Spring Newsletter
+                    </a>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Summer-Newsletter-2014.pdf">
                         Summer Newsletter
+                    </a>
                 </li>
 
                  <li class="Year-published">
-                        <h4> 2013 </h4>
+                        <h3> 2013 </h3>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Spring-Newsletter-2013.pdf">
                         Spring Newsletter
+                    </a>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Fall-Newsletter-2013.pdf">
                         Fall Newsletter
+                    </a>
                 </li>
 
                  <li class="Year-published">
-                    <a href="">
-                        <h4>2012</h4>
+                     
+                        <h3>2012</h3>
                 </li>
                  <li class="Links">
                     <a href="/pdf/newsletters/Fall-Newsletter-2012.pdf">
                         Fall Newsletter
+                    </a>
                 </li>
-            </ul>
+              </ul>
             </div>
 
 
