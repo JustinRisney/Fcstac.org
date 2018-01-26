@@ -11,7 +11,7 @@
       <?php include'../navbar.php';?>
            <div id="link-container">
 
-             <img src="Banner.png"/>
+             <img src="Banner.png" />
             <h1>Archived News Letters</h1>
 
             <ul style="list-style: none;">    
@@ -104,6 +104,7 @@
                     </a>
                 </li>
               </ul>
+             <img src="http://adelledavis.org/wp-content/uploads/2010/06/DSC00817_t479.jpg" />
             </div>
 
 
