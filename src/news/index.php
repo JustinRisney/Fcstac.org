@@ -11,7 +11,7 @@
       <?php include'../navbar.php';?>
            <div id="link-container">
 
-             <img src="Banner.png"></img>
+             <img src="Banner.png"/>
             <h1>Archived News Letters</h1>
 
             <ul style="list-style: none;">    
