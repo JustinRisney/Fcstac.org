@@ -14,8 +14,7 @@
 	  	  <p style="padding: 20px 20px;"> Please click the link to join or renew membership.</p>
 		    <a href="https://www.memberplanet.com/FCSTAC">Member Planet</a>
 	    </div>
-	   <img src="https://bloximages.chicago2.vip.townnews.com/host.madison.com/content/tncms/assets/v3/editorial/e/81/e816caad-f3a7-5f0a-8a3c-1bff3f2f04a0/579bc7ab5b336.image.jpg?resize=1200%2C752" />
-	    
+	   <img src="/images/Banner.png" />
 	    
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
