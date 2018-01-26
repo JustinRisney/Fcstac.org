@@ -11,9 +11,8 @@
       <?php include'../navbar.php';?>
 	    <div class="container text-center" style="padding: 80px; 40px;">
 	   	 <h1 style="font-weight: 300">Membership</h1>
-	  	  <p style="padding: 20px 20px;"> Please click the link to join or renew membership.
+	  	  <p style="padding: 20px 20px;"> Please click the link to join or renew membership.</p>
 		    <a href="https://www.memberplanet.com/FCSTAC">Member Planet</a>
-		  </p>
 	    </div>
 	    
 	    
