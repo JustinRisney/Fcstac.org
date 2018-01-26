@@ -13,11 +13,8 @@
 	   	 <h1 style="font-weight: 300">Membership</h1>
 	  	  <p style="padding: 20px 20px;"> Please click the link to join or renew membership.</p>
 		<ul style="list-style: none;">
-     		<li>
 		    <a href="https://www.memberplanet.com/FCSTAC">
-	      Go to Membership Planet
 		    </a>
-		</li>
 	       </ul>
 	    </div>
 	    
