@@ -9,7 +9,7 @@
     </head>
     <body>
       <?php include'../navbar.php';?>
-	    <h1 style="font-weight: 300">History</h1>
+	    <h1 style="font-weight: 300">Membership</h1>
 	    <p style="padding: 20px 20px;"> Please click the link to join or renew membership.</p>
       <a href="www.memberplanet.com/FCSTAC">
 	      Go to Membership Planet
