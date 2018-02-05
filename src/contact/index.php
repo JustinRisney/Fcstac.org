@@ -33,32 +33,32 @@
 				<tr>
 					<td>Dawn Maceyka</td>
 					<td>President</td>
-					<td>hetac01@gmail.com</td>
+					<td><a target="_blank" href="mailto:hetac01@gmail.com">hetac01@gmail.com</a></td>
 				</tr>
 				<tr>
 					<td>Tanya Durham Wright</td>
 					<td>Vice-President</td>
-					<td>tanya@jtwright.net</td>
+					<td><a target="_blank" href="mailto:tanya@jtwright.net">tanya@jtwright.net</a></td>
 				</tr>
 				<tr>
 					<td>Linda Johnson</td>
 					<td>Secretary</td>
-					<td>lljohn@pacbell.net</td>
+					<td><a target="_blank" href="mailto:lljohn@pacbell.net">lljohn@pacbell.net</a></td>
 				</tr>
 				<tr>
 					<td>Linda Rosensteel</td>
 					<td>Treasurer</td>
-					<td>linda.rosensteel@hesperiausd.org</td>
+					<td><a target="_blank" href="mailto:linda.rosensteel@hesperiausd.org">linda.rosensteel@hesperiausd.org</a></td>
 				</tr>
 				<tr>
 					<td>Jacob Boyce</td>
 					<td>Web Master</td>
-					<td>jacob.boyce@rocklinusd.org</td>
+					<td><a target="_blank" href="mailto:jacob.boyce@rocklinusd.org">jacob.boyce@rocklinusd.org</a></td>
 				</tr>
 				<tr>
 					<td>Mona Klein</td>
 					<td>Legislative Liaison</td>
-					<td>mona.klein@comcast.net</td>
+					<td><a target="_blank" href="mailto:mona.klein@comcast.net">mona.klein@comcast.net</a></td>
 				</tr>
 			</tbody>
 			</table>

@@ -9,9 +9,18 @@
     </head>
     <body>
       <?php include'../navbar.php';?>
-           <div id="link-container">
+           <div class="container-fluid">
+               <img class="col-md-12" src="/images/Banner.png" />
 
-             <img src="Banner.png" />
+
+
+
+
+               
+           </div>
+            <div id="link-container">
+
+             
             <h1>Archived News Letters</h1>
 
             <ul style="list-style: none;">    
@@ -105,6 +114,7 @@
                 </li>
               </ul>
              <img src="http://adelledavis.org/wp-content/uploads/2010/06/DSC00817_t479.jpg" />
+             <img class="col-md-12" src="/images/Banner.png" />
             </div>
 
 

@@ -9,7 +9,7 @@
     </head>
     <body>
 		<?php include'../navbar.php';?>
-		<div class="container text-center" style="padding: 80px; 40px;">
+		<div class="container-fluid text-center" style="padding: 80px; 40px;">
 			<h1 style="font-weight: 300">About</h1>
 			<p style="padding: 20px 20px;">FCTAC is an influential and effective organization that advocates for home economics careers and technology teachers on issues impacting their programs and curriculum.</p>
 			
@@ -29,8 +29,9 @@ HETAC is a professional organization focusing of the unique needs of Home Econom
 To actively promote the interests of home economics careers and technology teachers
 To support FHA-HERO as an integral part of home economics careers and technology programs
 To recognize and honor individuals for outstanding contributions to home economics careers and technology</p>
+			<img src="https://www.kids-cooking-activities.com/image-files/teenagechefcookingclass.jpg" class="col-md-12" />
 		</div>
-		<img src="https://www.kids-cooking-activities.com/image-files/teenagechefcookingclass.jpg" />
+		
 		
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
