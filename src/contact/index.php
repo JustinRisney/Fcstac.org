@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-        <title>FCTAC</title>
+        <title>FCSTAC | Contacts</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
@@ -68,11 +68,14 @@
 		<div class="container-fluid text-center">
 			<h1 ></h1>
 			<h1 style="font-weight: 200;">Regional Communication Network</h1>
-			<p>                             
-					Click on your region to contact your Communication Chair,
-					and to see what events are coming up.</p>
-
-					
+			<p>Click on your region to contact your Communication Chair, and to see what events are coming up.</p>
+			<map name="region">
+				<area shape="circle" coords="30,70,40" href="mailto:marilynj@vacavilleusd.org"></area>
+				<area shape="circle" coords="240,30,40" href="http://pusdk12.org"></area>
+				<area shape="circle" coords="50,130,40" href="mailto:marilynj@vacavilleusd.org"></area>
+				<area shape="circle" coords="280,110,40" href="mailto:marilynj@vacavilleusd.org"></area>
+			</map>
+			<img src="/images/map.jpg" usemap="#region" style="width: 462px; height: 399px;"></img>
 		</div>
 		
 			
