@@ -90,6 +90,8 @@
             <a target="_blank" href="https://www.memberplanet.com/FCSTAC">
               <li class="links">Member Planet</li>
             </a>
+	    <a img class="col-md-12" img src="/images/Banner.png">
+      	    </a>
           </ul>
         </div>
     		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
