@@ -36,19 +36,19 @@
 					<td><a target="_blank" href="mailto:hetac01@gmail.com">hetac01@gmail.com</a></td>
 				</tr>
 				<tr>
-					<td>Tanya Durham Wright</td>
+					<td>Taudine Andrew</td>
 					<td>Vice-President</td>
-					<td><a target="_blank" href="mailto:tanya@jtwright.net">tanya@jtwright.net</a></td>
+					<td><a target="_blank" href="mailto:taudine@gmail.com">taudine@gmail.com</a></td>
 				</tr>
 				<tr>
-					<td>Linda Johnson</td>
+					<td>Alicia Arlington</td>
 					<td>Secretary</td>
-					<td><a target="_blank" href="mailto:lljohn@pacbell.net">lljohn@pacbell.net</a></td>
+					<td><a target="_blank" href="mailto:alicia.arlington@gmail.com">alicia.arlington@gmail.com</a></td>
 				</tr>
 				<tr>
-					<td>Linda Rosensteel</td>
+					<td>Jenifer.poulsen</td>
 					<td>Treasurer</td>
-					<td><a target="_blank" href="mailto:linda.rosensteel@hesperiausd.org">linda.rosensteel@hesperiausd.org</a></td>
+					<td><a target="_blank" href="mailto: jenifer.poulsen@gmail.com"> jenifer.poulsen@gmail.com</a></td>
 				</tr>
 				<tr>
 					<td>Jacob Boyce</td>
@@ -60,6 +60,7 @@
 					<td>Legislative Liaison</td>
 					<td><a target="_blank" href="mailto:mona.klein@comcast.net">mona.klein@comcast.net</a></td>
 				</tr>
+				<
 			</tbody>
 			</table>
 			</div>
@@ -68,8 +69,10 @@
 			<h1 ></h1>
 			<h1 style="font-weight: 200;">Regional Communication Network</h1>
 			<p>                             
-Click on your region to contact your Communication Chair,
-and to see what events are coming up.</p>
+					Click on your region to contact your Communication Chair,
+					and to see what events are coming up.</p>
+
+					
 		</div>
 		
 			
