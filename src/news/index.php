@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<<<<<<< HEAD
         <title>FCSTAC | News</title>
+=======
+        <title>FCSTAC</title>
+>>>>>>> baa00f6e2d7654602a86fefefe0c36fbe013dc77
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" type="text/css" href="/stylesheets/news.css">
