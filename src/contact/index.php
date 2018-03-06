@@ -4,7 +4,7 @@
         <title>FCSTAC | Contacts</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
+        <link rel="stylesheet" type="text/css" href="/stylesheets/index.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 		<style>
 			.table-dark td, .table-dark th, .table-dark thead th{
@@ -60,7 +60,6 @@
 					<td>Legislative Liaison</td>
 					<td><a target="_blank" href="mailto:mona.klein@comcast.net">mona.klein@comcast.net</a></td>
 				</tr>
-				<
 			</tbody>
 			</table>
 			</div>
@@ -70,10 +69,16 @@
 			<h1 style="font-weight: 200;">Regional Communication Network</h1>
 			<p>Click on your region to contact your Communication Chair, and to see what events are coming up.</p>
 			<map name="region">
-				<area shape="circle" coords="30,70,40" href="mailto:marilynj@vacavilleusd.org"></area>
-				<area shape="circle" coords="240,30,40" href="http://pusdk12.org"></area>
-				<area shape="circle" coords="50,130,40" href="mailto:marilynj@vacavilleusd.org"></area>
-				<area shape="circle" coords="280,110,40" href="mailto:marilynj@vacavilleusd.org"></area>
+				<area shape="circle" coords="30,70,40" href="/contact/region1"></area>
+				<area shape="circle" coords="240,30,40" href="/contact/region2"></area>
+				<area shape="circle" coords="50,130,40" href="/contact/region3"></area>
+				<area shape="circle" coords="280,110,40" href="/contact/region4"></area>
+				<area shape="circle" coords="90,180,40" href="/contact/region5"></area>
+				<area shape="circle" coords="320,160,40" href="/contact/region6"></area>
+				<area shape="circle" coords="130,250,40" href="/contact/region7"></area>
+				<area shape="circle" coords="400,220,40" href="/contact/region8"></area>
+				<area shape="circle" coords="240,330,40" href="/contact/region9"></area>
+				<area shape="circle" coords="420,320,40" href="/contact/region10"></area>
 			</map>
 			<img src="/images/map.jpg" usemap="#region" style="width: 462px; height: 399px;"></img>
 		</div>
@@ -84,6 +89,3 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
     </body>
 </html>
-
-
-
