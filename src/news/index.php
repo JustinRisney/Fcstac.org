@@ -29,6 +29,19 @@
 
             <ul style="list-style: none;">    
                 <li class="Year-published">
+                    <h3>2017</h3>
+                </li>
+                <li class="Links">
+                  <a href="/pdf/newsletters/Winter-Newsletter-2017.pdf">
+                        December Newsletter
+                  </a>
+                </li>
+                <li class="Links">
+                  <a href="/pdf/newsletters/Fall-Newsletter-2017.pdf">
+                        September Newsletter
+                  </a>
+                </li>
+                <li class="Year-published">
                     <h3>2016</h3>
                 </li>
                 <li class="Links">
