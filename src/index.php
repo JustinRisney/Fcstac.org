@@ -37,12 +37,6 @@
                 <div class="carousel-item">
                   <img class="d-block w-100" src="/images/weird_yellow_shit.png" style="width:800;height: 600px; ">
                 </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="/images/DoItBigBoy.png" style="width:800;height: 600px; "> 
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="/images/BigBoys.png" style="width:800;height: 600px; ">
-                </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
