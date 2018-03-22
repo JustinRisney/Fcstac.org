@@ -14,7 +14,7 @@
     <body>
       <?php include'../navbar.php';?>
            <div class="container-fluid">
-               <img class="col-md-12" src="/images/Banner.png" />
+           
 
 
 
@@ -24,7 +24,7 @@
            </div>
             <div id="link-container">
 
-             
+             <br> <!--  <- Don't remove you bitch, nathanial-->
             <h1>Archived News Letters</h1>
 
             <ul style="list-style: none;">    
