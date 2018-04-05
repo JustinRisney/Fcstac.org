@@ -20,13 +20,33 @@
               <li class="links">HECT Home Page</li>
             </a>
 
-            <a target="_blank" href="http://www.ca-fhahero-fccla.org">
+            <!--<a target="_blank" href="http://www.ca-fhahero-fccla.org">
               <li class="links">FHA-HERO</li>
+            </a>-->
+
+            <a target="_blank" href="http://ca-fcs.org">
+              <li class="links">California Department of Education Family and Consumer Sciences</li>
+            </a>
+
+            <a target="_blank" href="http://getrealca.org">
+              <li class="links">Relevance in Education and Learning (REAL)</li>
+            </a>
+
+            <a target="_blank" href="https://www.aafcs.org">
+              <li class="links"> American Association of Family and Consumer Sciences</li>
+            </a>
+
+            <a target="_blank" href="http://www.legislature.ca.gov/legislators_and_districts/legislators/your_legislator.html">
+              <li class="links">How to find your legislator</li>
+            </a>
+
+            <a target="_blank" href="http://www.csus.edu/facs">
+              <li class="links">Sac State Family and Consumer Science Programs</li>
             </a>  
 
-            <a target="_blank" href="http://www.naccp.org">
+           <!-- <a target="_blank" href="http://www.naccp.org">
               <li class="links">National Association of Child Care Professionals</li>
-            </a>
+            </a> -->
 
             <a target="_blank" href="http://www.naeyc.org">
               <li class="links">National Association for Education of Young Children</li>
@@ -68,9 +88,9 @@
               <li class="links">Interior Design Educators Council</li>
             </a>
 
-            <a target="_blank" href="http://www.americanapparel.org">
+            <!--<a target="_blank" href="http://www.americanapparel.org">
               <li class="links">American Apparel Manufacturers Assoc</li>
-            </a>
+            </a>-->
 
             <a target="_blank" href="http://www.fgi.org">
               <li class="links">Fashion Group International</li>
@@ -91,10 +111,13 @@
             <a target="_blank" href="https://www.memberplanet.com/FCSTAC">
               <li class="links">Member Planet</li>
             </a>
-	    <a img class="col-md-12" img src="/images/Banner.png">
-      	    </a>
+            
           </ul>
         </div>
+        <div class="container-fluid text-center">
+          <img style=" width: 736px; height: 566px; padding-bottom: 50px;" src="/images/something-that-is-not-fortnite.png">
+        </div>
+
     		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
     		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
