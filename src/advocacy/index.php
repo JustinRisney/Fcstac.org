@@ -7,6 +7,7 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
         <style type="text/css">
+            /*
             .thiccc {
                 font-weight: 700;
             } 
@@ -17,7 +18,9 @@
 
             .thicccer {
                 padding-top: 50px;
-            }
+            } 
+            */
+
 
 
 
@@ -25,7 +28,7 @@
     </head>
     <body>
       <?php include '../navbar.php';?>
-            <div class="container-fluid text-center">
+            <!--<div class="container-fluid text-center">
                 <div class="thicccer" id="AB-166">
                     <h3 class="blue-shit">
                         AB 166:  EDUCATIONAL PLAN FOR THE TEACHING OF FINANCIAL LITERACY
@@ -58,8 +61,21 @@
                         Beginning January 1, 2014, the act requires the California State University to recognize completion of all high school career technical education courses that meet model curriculum standards established by the Superintendent of Public Instruction as satisfying the completion of a general elective course requirement for the purpose of admission to that university.
                     </p>
 
-                </div>
+                </div>-->
+                <div class="text-center container-fluid">
+                    <ul style="list-style: none;">
+                        <a target="_blank" href="http://ca-fcs.org">
+                            <li class="links">Ca-FCS Homepage</li>
+                        </a>
 
+                        <a target="_blank" href="http://www.legislature.ca.gov/legislators_and_districts/legislators/your_legislator.html">
+                            <li class="links">How to find your legislator</li>
+                        </a>
+
+
+
+                    </ul>
+                </div>
 
 
 

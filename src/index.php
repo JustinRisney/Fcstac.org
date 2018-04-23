@@ -26,16 +26,16 @@
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="/images/FCSTACLeadership.png" alt="First slide" style="width:800;height: 700px; ">
+                  <img class="d-block w-100" src="/images/FCSTACLeadership.png" alt="First slide" style="width:800px;height: 700px; ">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="/images/onions.png" alt="Second slide" style="width:800;height: 600px; ">
+                  <img class="d-block w-100" src="/images/onions.png" alt="Second slide" style="width:800px;height: 600px; ">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="/images/pizza.png" alt="Third slide" style="width:800;height: 600px; ">
+                  <img class="d-block w-100" src="/images/pizza.png" alt="Third slide" style="width:800px;height: 600px; ">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="/images/weird-yellow-shit.png" style="width:800;height: 600px; ">
+                  <img class="d-block w-100" src="/images/weird-yellow-shit.png" style="width:800px;height: 600px; ">
                 </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>

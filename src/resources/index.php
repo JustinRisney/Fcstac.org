@@ -16,16 +16,16 @@
 
 
           <ul class="text-center" style="padding: 0px; list-style: none;">
-            <a target="_blank" href="http://hect.org">
+            <!--<a target="_blank" href="http://hect.org">
               <li class="links">HECT Home Page</li>
-            </a>
+            </a>-->
 
             <!--<a target="_blank" href="http://www.ca-fhahero-fccla.org">
               <li class="links">FHA-HERO</li>
             </a>-->
 
             <a target="_blank" href="http://ca-fcs.org">
-              <li class="links">California Department of Education Family and Consumer Sciences</li>
+              <li class="links">California Family and Consumer Sciences</li>
             </a>
 
             <a target="_blank" href="http://getrealca.org">
