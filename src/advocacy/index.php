@@ -62,7 +62,10 @@
                     </p>
 
                 </div>-->
+
                 <div class="text-center container-fluid">
+
+                    <h5 style="padding-top: 25px;">The Family and Consumer Sciences Teachers Association strives to stay abreast of current issues in FACS Education and policy making.  We work with our our legislative analyst and with a coalition of CTE professionals to influence public policy in ways that support Family and Consumer Sciences at all grade levels.</h5>
                     <ul style="list-style: none;">
                         <a target="_blank" href="http://ca-fcs.org">
                             <li class="links">Ca-FCS Homepage</li>
@@ -71,6 +74,12 @@
                         <a target="_blank" href="http://www.legislature.ca.gov/legislators_and_districts/legislators/your_legislator.html">
                             <li class="links">How to find your legislator</li>
                         </a>
+
+                        <a target="_blank" href="http://getrealca.org">
+                            <li class="links">Relevance in Education and Learning (REAL)</li>
+                        </a>
+
+                        <div>Get R.E.A.L. (Relevance in Education And Learning) is a coalition of business, labor, agriculture, public safety, technology, health care, child advocates and educators who believe California schools should provide a balanced educational experience that includes robust academic studies and industry-relevant career technical education (CTE).</div>
 
 
 
