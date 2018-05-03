@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "title": "2017",
+      "links": [
+        {
+          "name": "Winter Newsletter",
+          "url": "/pdf/newsletters/Winter-Newsletter-2017.pdf"
+        },
+        {
+          "name": "Fall Newsletter",
+          "url": "/pdf/newsletters/Fall-Newsletter-2017.pdf"
+        }
+      ]
+    },
+    {
+      "title": "2016",
+      "links": [
+        {
+          "name": "December Newsletter",
+          "url": "/pdf/newsletters/December-Newsletter-2016.pdf"
+        },
+        {
+          "name": "September Newsletter",
+          "url": "/pdf/newsletters/September-Newsletter-2016.pdf"
+        },
+        {
+          "name": "May Newsletter",
+          "url": "/pdf/newsletters/May-Newsletter-2016.pdf"
+        }
+      ]
+    },
+    {
+      "title": "2015",
+      "links": [
+        {
+          "name": "Summer Newsletter",
+          "url": "/pdf/newsletters/Summer-Newsletter-2015.pdf"
+        },
+        {
+          "name": "Fall Newsletter",
+          "url": "/pdf/newsletters/Fall-Newsletter-2015.pdf"
+        },
+        {
+          "name": "Winter Newsletter",
+          "url": "/pdf/newsletters/Winter-Newsletter-2015.pdf"
+        },
+        {
+          "name": "Spring Newsletter",
+          "url": "/pdf/newsletters/Spring-Newsletter-2015.pdf"
+        }
+      ]
+    },
+    {
+      "title": "2014",
+      "links": [
+        {
+          "name": "Winter Newsletter",
+          "url": "/pdf/newsletters/Winter-Newsletter-2014.pdf"
+        },
+        {
+          "name": "Spring Newsletter",
+          "url": "/pdf/newsletters/Spring-Newsletter-2014.pdf"
+        },
+        {
+          "name": "Summer Newsletter",
+          "url": "/pdf/newsletters/Summer-Newsletter-2014.pdf"
+        }
+      ]
+    },
+    {
+      "title": "2013",
+      "links": [
+        {
+          "name": "Spring Newsletter",
+          "url": "/pdf/newsletters/Spring-Newsletter-2013.pdf"
+        },
+        {
+          "name": "Fall Newsletter",
+          "url": "/pdf/newsletters/Fall-Newsletter-2013.pdf"
+        }
+      ]
+    },
+    {
+      "title": "2012",
+      "links": [
+        {
+          "name": "Fall Newsletter",
+          "url": "/pdf/newsletters/Fall-Newsletter-2012.pdf"
+        }
+      ]
+    }
+  ]
+}
