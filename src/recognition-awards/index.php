@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-        <title>FCTAC | Awards</title>
+        <title>FCSTAC | Awards</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
@@ -25,7 +25,7 @@
                     </a>
                     <a href="/pdf/Awards/OutstandingTeacheroftheYearAward.pdf">
                         <h3 class="links">
-                            Outstainding Teacher of the Year Award Application
+                            Outstanding Teacher of the Year Award Application
                         </h3>
                     </a>
                 
