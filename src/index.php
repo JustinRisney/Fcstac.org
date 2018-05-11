@@ -21,6 +21,7 @@
                 <li data-target="#carouselIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselIndicators" data-slide-to="2"></li>
                 <li data-target="#carouselIndicators" data-slide-to="3"></li>
+                <!--<li data-target="#carouselIndicators" data-slide-to="4"></li>
                 <!--<li data-target="#carouselIndicators" data-slide-to="4"></li>-->
 
               </ol>
@@ -38,6 +39,9 @@
                   <img class="d-block w-100" src="/images/weird-yellow-shit.png" alt="Fourth slide" style="height: 600px; ">
                 </div>
                 <!--<div class="carousel-item">
+                  <img class="d-block w-100" src="/images/Dream-daddy-remastered.png" alt="Fifth slide" style="height: 600px; ">
+                </div>
+                    <!--<div class="carousel-item">
                   <img class="d-block w-100" src="/images/anime-girls.png" alt="Fifth slide" style="height: 600px">
                 </div>-->
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
